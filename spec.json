@@ -1,0 +1,21 @@
+{
+    "name": "code_execution",
+    "description": "Run code in various programming languages",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "source_code": {
+                "type": "string",
+                "description": "A source code snippet"
+            },
+            "language": {
+                "type": "string",
+                "description": "A name of the programming language"
+            }
+        },
+        "required": [
+            "source_code",
+            "language"
+        ]
+    }
+}

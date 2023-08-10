@@ -1,0 +1,7 @@
+[
+    {
+        "name": "rapidApiKey",
+        "label": "RapidAPI Key",
+        "type": "password"
+    }
+]
