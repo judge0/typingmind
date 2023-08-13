@@ -10,6 +10,7 @@
             },
             "language": {
                 "type": "string",
+                "enum": ["c", "cpp", "go", "java", "javascript", "python", "ruby"],
                 "description": "A name of the programming language"
             }
         },
