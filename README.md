@@ -1,6 +1,8 @@
 # Code Execution
 Code Execution plugin for [TypingMind](https://typingmind.com) powered by [Judge0](https://judge0.com).
 
+[![https://t.co/gPO0ubB7kh](.github/1689867191729131520.jpeg)](https://t.co/gPO0ubB7kh)
+
 ## Get Started
 1. Get your code execution API key [here](https://judge0.com/ce).
 2. Click the *Settings* tab and enter your RapidAPI Key.
